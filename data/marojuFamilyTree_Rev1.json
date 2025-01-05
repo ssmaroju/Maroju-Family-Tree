@@ -102,7 +102,13 @@
                             {
                               "name": "Sudha Rani",
                               "Sex": "Female",
-                              "Spouse": "Srinivasa Rao"
+                              "Spouse": "Srinivasa Rao Tekki",
+                              "children": [
+                                {
+                                  "name": "Pallavi",
+                                  "Sex": "Female"
+                                }
+                              ]
                             },
                             {
                               "name": "Ravindra Babu",
@@ -133,7 +139,7 @@
                             {
                               "name": "Suvarna Latha",
                               "Sex": "Female",
-                              "Spouse": "Praveen",
+                              "Spouse": "Praveen Akavaram",
                               "children": [
                                 {
                                   "name": "Priyanka",
@@ -202,7 +208,8 @@
                             },
                             {
                               "name": "Prashanti",
-                              "Sex": "Female"
+                              "Sex": "Female",
+                              "Spouse": "Janardhan V"
                             },
                             {
                               "name": "Vamsi Krishna",
@@ -218,19 +225,28 @@
                           "children": [
                             {
                               "name": "Sirisha",
-                              "Sex": "Female"
+                              "Sex": "Vikas",
+                              "children": [
+                                {
+                                  "name": "Evani Skanda",
+                                  "Sex": "Female"
+                                }
+                              ]
                             },
                             {
                               "name": "Pratyusha",
-                              "Sex": "Female"
+                              "Sex": "Female",
+                              "Spouse": "Shashank"
                             },
                             {
                               "name": "Padmini",
-                              "Sex": "Female"
+                              "Sex": "Female",
+                              "Spouse": "Janaki Ram"
                             },
                             {
                               "name": "Aparna Latha",
-                              "Sex": "Female"
+                              "Sex": "Female",
+                              "Spouse": "Boopathi Kannan"
                             }
                           ]
                         }
