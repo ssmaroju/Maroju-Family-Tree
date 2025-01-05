@@ -2,7 +2,7 @@
   "name": "family-tree-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ssmaroju.github.io/family-tree-project",
+  "homepage": "https://ssmaroju.github.io/Maroju-Family-Tree",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
