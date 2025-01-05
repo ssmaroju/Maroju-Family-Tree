@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Maroju-Family-Tree/static/css/main.6e160803.css",
+    "main.js": "/Maroju-Family-Tree/static/js/main.a59ca89d.js",
+    "index.html": "/Maroju-Family-Tree/index.html",
+    "main.6e160803.css.map": "/Maroju-Family-Tree/static/css/main.6e160803.css.map",
+    "main.a59ca89d.js.map": "/Maroju-Family-Tree/static/js/main.a59ca89d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e160803.css",
+    "static/js/main.a59ca89d.js"
+  ]
+}
