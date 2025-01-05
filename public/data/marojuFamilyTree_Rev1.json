@@ -1,0 +1,497 @@
+{
+  "name": "Somanna (Regulavalasa Tatayya)",
+  "Sex": "Male",
+  "Occupation": "Physician, Philanthropist",
+  "otherInfo": "According to family history passed down through Maroju Suryanarayana, this marks the beginning of our documented ancestry. The family gradually relocated from Pata Bobbili to Jagannathapuram near Paravtipuram",
+  "children": [
+    {
+      "name": "Ramayya",
+      "Sex": "Male",
+      "Occupation": null,
+      "Other Name": null,
+      "children": [
+        {
+          "name": "Daughters",
+          "Sex": "Female",
+          "otherInfo": "Historical records are unavailable"
+        }
+      ]
+    },
+    {
+      "name": "Chinnayya",
+      "Sex": "Male",
+      "Occupation": null,
+      "otherInfo": "Married into the Pedaprolu family of Alajangi, who are the forebears of the Pedaprolu Rajarao lineage",
+      "children": [
+        {
+          "name": "Somanna",
+          "Sex": "Male",
+          "otherInfo": "Established matrimonial ties with the Mugada family from Pata Bobbili",
+          "children": [
+            {
+              "name": "Sanyasi",
+              "Sex": "Male",
+              "Spouse": "Kannamma",
+              "otherInfo": "Wed into the Kosuru family of Parvatipuram, with Kannamma being Kosuru Raghunayakulu's sister. They made visits to Krishnapuram. Despite lacking formal education, he recognized education's importance and encouraged his son Somalingam's academic pursuits with firm guidance",
+              "children": [
+                {
+                  "name": "Somalingam (Gumpa Swamy)",
+                  "Sex": "Male",
+                  "Spouse": "Varahalamma (Appa)",
+                  "otherInfo": "His wife hailed from the Addala family of Jogammapeta near Sitammapeta, daughter of Veerabhadrudu. While Somalingam devoted himself to scholarly pursuits, his wife possessed remarkable practical wisdom",
+                  "children": [
+                    {
+                      "name": "Kannamma",
+                      "Sex": "Female",
+                      "Spouse": "Appalaswamy",
+                      "otherInfo": "Joined the Nadithoka family of Pedapadam through marriage. Tragically passed away during pregnancy without leaving descendants",
+                      "children": []
+                    },
+                    {
+                      "name": "Appalanarasamma",
+                      "Sex": "Female",
+                      "Spouse": "Gunnayya",
+                      "otherInfo": "Became part of the Gannavarapu family from Junugulluvalasa. Lost her life to complications from medical treatment during pregnancy"
+                    },
+                    {
+                      "name": "Kanakaraju",
+                      "Sex": "Male",
+                      "Spouse": "Varahalamma",
+                      "otherInfo": "United with the Patnala family through marriage to Chinnayya's daughter",
+                      "children": [
+                        {
+                          "name": "Ramanamma",
+                          "Sex": "Female",
+                          "Spouse": "Lingeswara Rao",
+                          "otherInfo": "Married into the Mugada family of Mentada. Experienced challenges in married life"
+                        },
+                        {
+                          "name": "China Lakshmi",
+                          "Sex": "Female",
+                          "Spouse": "Balakrishna",
+                          "otherInfo": "Joined the Simhadri family of Sirlam through marriage",
+                          "children": [
+                            {
+                              "name": "Venu",
+                              "Sex": "Male"
+                            },
+                            {
+                              "name": "Chitti",
+                              "Sex": "Female"
+                            },
+                            {
+                              "name": "Durga",
+                              "Sex": "Female"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Suryanarayana",
+                      "Sex": "Male",
+                      "Spouse": "Lakshmi Kantamma",
+                      "otherInfo": "Allied with the Chintaluru family of Sitanagaram through marriage. His wife is the daughter of Bhadrayya and Ammannamma, with Veeranna being Bhadrayya's younger sibling",
+                      "children": [
+                        {
+                          "name": "Soma Sundaram",
+                          "Sex": "Male",
+                          "Spouse": "Adi Lakshmi",
+                          "otherInfo": "Connected to the Tarini family of Srikakulam through marriage. His wife is the daughter of Tammaraju (who served as R.D.O) and Ratnamma",
+                          "children": [
+                            {
+                              "name": "Sudha Rani",
+                              "Sex": "Female",
+                              "Spouse": "Srinivasa Rao"
+                            },
+                            {
+                              "name": "Ravindra Babu",
+                              "Sex": "Male",
+                              "Spouse": "Rajani",
+                              "children": [
+                                {
+                                  "name": "Soma Chaitanya",
+                                  "Sex": "Male"
+                                },
+                                {
+                                  "name": "Trisha Madhumati",
+                                  "Sex": "Female"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Srinivasa Lakshmi Vara Prasad",
+                              "Sex": "Male",
+                              "Spouse": "Visweswari",
+                              "children": [
+                                {
+                                  "name": "Preeti Gayatri",
+                                  "Sex": "Female"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Suvarna Latha",
+                              "Sex": "Female",
+                              "Spouse": "Praveen",
+                              "children": [
+                                {
+                                  "name": "Priyanka",
+                                  "Sex": "Female"
+                                },
+                                {
+                                  "name": "Pratyusha",
+                                  "Sex": "Female"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Gopalam",
+                          "Sex": "Male",
+                          "Spouse": "Lalitamba",
+                          "otherInfo": "Joined the Chitrada family of Sompeta through marriage to the daughter of Ammanna Achary and Savitramma",
+                          "children": [
+                            {
+                              "name": "Raja Sekhar",
+                              "Sex": "Male",
+                              "Spouse": "Jyotsna (Hana)",
+                              "children": [
+                                {
+                                  "name": "Nithya Gowri",
+                                  "Sex": "Female"
+                                },
+                                {
+                                  "name": "Aditya",
+                                  "Sex": "Male"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Soma Sekhar",
+                              "Sex": "Male",
+                              "Spouse": "Rajalaxmi"
+                            },
+                            {
+                              "name": "Nanda Kishore",
+                              "Sex": "Male",
+                              "Spouse": "Anusha",
+                              "children": [
+                                {
+                                  "name": "Mihir",
+                                  "Sex": "Male"
+                                },
+                                {
+                                  "name": "Mira",
+                                  "Sex": "Female"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Rama Devi",
+                          "Sex": "Female",
+                          "Spouse": "Ramachandra Rao",
+                          "otherInfo": "Became part of the Anupoju family from Saluru through marriage. Her husband is the child of Seetayya and Satyavatamma",
+                          "children": [
+                            {
+                              "name": "Satya Sudha",
+                              "Sex": "Female"
+                            },
+                            {
+                              "name": "Prashanti",
+                              "Sex": "Female"
+                            },
+                            {
+                              "name": "Vamsi Krishna",
+                              "Sex": "Male"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Uma Bharati",
+                          "Sex": "Female",
+                          "Spouse": "Brahmachary",
+                          "otherInfo": "United with the Vanapalli family of Jeypore through marriage. Her husband is the son of Tatachary and Satyavatamma",
+                          "children": [
+                            {
+                              "name": "Sirisha",
+                              "Sex": "Female"
+                            },
+                            {
+                              "name": "Pratyusha",
+                              "Sex": "Female"
+                            },
+                            {
+                              "name": "Padmini",
+                              "Sex": "Female"
+                            },
+                            {
+                              "name": "Aparna Latha",
+                              "Sex": "Female"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Varaha Narasimhulu",
+                      "Sex": "Male",
+                      "Spouse": "Narayanamma, Manikyamma",
+                      "otherInfo": "Connected to the Addala family of Piridi through marriage to Appanna's daughters",
+                      "children": [
+                        {
+                          "name": "Srirama Murthy",
+                          "Sex": "Male",
+                          "Spouse": "Govindamma",
+                          "otherInfo": "Allied with the Vangara family of Piridi. Born to Narayanamma",
+                          "children": [
+                            {
+                              "name": "Radha",
+                              "Sex": "Female"
+                            },
+                            {
+                              "name": "Vara Prasad",
+                              "Sex": "Male"
+                            },
+                            {
+                              "name": "Vasu",
+                              "Sex": "Male"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Lakshmi",
+                          "Sex": "Female",
+                          "Spouse": "Suryanarayana",
+                          "otherInfo": "Joined the Addala family of Piridi through marriage to Appalaswamy's son. She was born to Narayanamma",
+                          "children": [
+                            {
+                              "name": "Ramana",
+                              "Sex": "Female"
+                            },
+                            {
+                              "name": "Bharati",
+                              "Sex": "Female"
+                            },
+                            {
+                              "name": "Vijeta",
+                              "Sex": "Female"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Murali",
+                          "Sex": "Male",
+                          "Spouse": "Padmavathy",
+                          "otherInfo": "Born to Narayanamma",
+                          "children": [
+                            {
+                              "name": "Siva",
+                              "Sex": "Male"
+                            },
+                            {
+                              "name": "Govindamma",
+                              "Sex": "Female"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Bhavani",
+                          "Sex": "Female",
+                          "Spouse": "Appalaswamy",
+                          "otherInfo": "United with the Girijala family of Subhadra Village through marriage. Born to Narayanamma"
+                        },
+                        {
+                          "name": "Lalita",
+                          "Sex": "Female",
+                          "Spouse": "Ravana",
+                          "otherInfo": "Became part of the Gurajapu family of Saluru through marriage. Born to Manikyamma"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Varahalamma",
+                  "Sex": "Female",
+                  "otherInfo": "United with the Kosuru family of Parvatipuram through marriage to her maternal uncle. The union remained without children"
+                },
+                {
+                  "name": "Amudamma",
+                  "Sex": "Female",
+                  "Spouse": "Shantanna",
+                  "otherInfo": "Joined the Mugada family of Pata Bobbili through marriage"
+                },
+                {
+                  "name": "Annapurnamma",
+                  "Sex": "Female",
+                  "Spouse": "Chinababu",
+                  "otherInfo": "Allied with the Patoju family through marriage to a Haridasu. Bore two daughters who passed away at birth. Following her husband's early death, she returned to live with her brother's family. In her later years, she developed leprosy"
+                }
+              ]
+            },
+            {
+              "name": "Kannayya",
+              "Sex": "Male",
+              "otherInfo": "Connected to the Pedaprolu family of Alajangi through marriage",
+              "children": [
+                {
+                  "name": "Ramamurthy",
+                  "Sex": "Male",
+                  "otherInfo": "Passed without descendants"
+                },
+                {
+                  "name": "Chandrasekharam",
+                  "Sex": "Male",
+                  "otherInfo": "Passed without descendants"
+                },
+                {
+                  "name": "Appalaswamy",
+                  "Sex": "Male",
+                  "otherInfo": "Passed without descendants"
+                },
+                {
+                  "name": "Daughter",
+                  "Sex": "Female",
+                  "otherInfo": "United with the Pedaprolu family through marriage",
+                  "children": [
+                    {
+                      "name": "Raja Rao",
+                      "Sex": "Male"
+                    },
+                    {
+                      "name": "Daughter",
+                      "Sex": "Female",
+                      "otherInfo": "Lived with hearing impairment"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Adi Narayana",
+              "Sex": "Male",
+              "Spouse": "Butchamma",
+              "otherInfo": "Allied with the Rajabhaktula family of Neelanagaram through marriage to Rajabhaktula Papayya's daughter Butchamma",
+              "children": [
+                {
+                  "name": "Sanghameswaram",
+                  "Sex": "Male",
+                  "otherInfo": "Having no biological children, welcomed Maroju Suryanarayana through adoption"
+                },
+                {
+                  "name": "Jagannatham",
+                  "Sex": "Male",
+                  "otherInfo": "Passed without descendants"
+                },
+                {
+                  "name": "Varahalamma",
+                  "Sex": "Female",
+                  "otherInfo": "Lost her only daughter in infancy"
+                },
+                {
+                  "name": "Mahalakshmi",
+                  "Sex": "Female",
+                  "Spouse": "Somanna",
+                  "otherInfo": "United with the Manepalli family of Vizianagaram through marriage",
+                  "children": [
+                    {
+                      "name": "Papanna",
+                      "Sex": "Male"
+                    },
+                    {
+                      "name": "Ammanna",
+                      "Sex": "Female",
+                      "otherInfo": "Joined the Resu family through marriage. Health declined significantly"
+                    }
+                  ]
+                },
+                {
+                  "name": "Parvatheesam",
+                  "Sex": "Male",
+                  "otherInfo": "Departed at age 25 before marriage. Known for standing his ground in discussions with his grandfather Somanna"
+                }
+              ]
+            },
+            {
+              "name": "Annayya",
+              "Sex": "Male",
+              "otherInfo": "Connected to the Karri family of Markondaputti through marriage. Father to two daughters"
+            },
+            {
+              "name": "Lakshminarayana",
+              "Sex": "Male",
+              "otherInfo": "Allied with the Trasula family of Bobbili through marriage. Passed without descendants"
+            },
+            {
+              "name": "Veeranna",
+              "Sex": "Male",
+              "otherInfo": "United with the Polavarapu family of Rangarayapuram through marriage",
+              "children": [
+                {
+                  "name": "Suryanarayana",
+                  "Sex": "Male",
+                  "Spouse": "Varahalamma",
+                  "otherInfo": "Known as Bobbili China Tata",
+                  "children": [
+                    {
+                      "name": "Ammaji",
+                      "Sex": "Female",
+                      "Spouse": "Brahmam",
+                      "otherInfo": "Joined the Pedaprolu family of Jagadalpur through marriage, becoming mother to three sons and four daughters"
+                    },
+                    {
+                      "name": "Ramanamma",
+                      "Sex": "Female",
+                      "otherInfo": "United with the Potnuru family of Parvatipuram through marriage. Passed away before having children"
+                    },
+                    {
+                      "name": "Prakasa Rao",
+                      "Sex": "Male",
+                      "otherInfo": "Welcomed through adoption. Practices as a goldsmith in Parvatipuram",
+                      "children": [
+                        {
+                          "name": "Narendra",
+                          "Sex": "Male",
+                          "otherInfo": "Established in Parvatipuram"
+                        },
+                        {
+                          "name": "Rajesh",
+                          "Sex": "Male",
+                          "otherInfo": "Established in Parvatipuram"
+                        },
+                        {
+                          "name": "Murali",
+                          "Sex": "Male",
+                          "otherInfo": "Established in Parvatipuram"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Chinnayya",
+                  "Sex": "Male",
+                  "otherInfo": "Passed away before marriage"
+                }
+              ]
+            },
+            {
+              "name": "Daughters",
+              "Sex": "Female",
+              "otherInfo": "One daughter who joined the Polavarapu family of Rangarayapuram through marriage"
+            }
+          ]
+        },
+        {
+          "name": "Daughters",
+          "Sex": "Female",
+          "otherInfo": "Two daughters"
+        }
+      ]
+    }
+  ]
+}
