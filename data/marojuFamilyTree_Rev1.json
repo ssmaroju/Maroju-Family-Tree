@@ -102,7 +102,7 @@
                             {
                               "name": "Sudha Rani",
                               "Sex": "Female",
-                              "Spouse": "Srinivasa Rao Tekki",
+                              "Spouse": "Sreenivasa Rao Tekki",
                               "children": [
                                 {
                                   "name": "Pallavi",
@@ -129,6 +129,7 @@
                               "name": "Srinivasa Lakshmi Vara Prasad",
                               "Sex": "Male",
                               "Spouse": "Visweswari",
+                              "otherInfo": "United with the Cherukuri family through marriage to the youngest daughter of Prof. Borreswara Rao, a distinguished Geology professor and researcher at Andhra University, and Smt Parvati Devi",
                               "children": [
                                 {
                                   "name": "Preeti Gayatri",
@@ -177,7 +178,8 @@
                             {
                               "name": "Soma Sekhar",
                               "Sex": "Male",
-                              "Spouse": "Rajalaxmi"
+                              "Spouse": "Rajalaxmi",
+                              "otherInfo": "Allied with the Polarpu family through marriage to the sole daughter of Ramalingam Achari and Saraswati from Berhampur"
                             },
                             {
                               "name": "Nanda Kishore",
@@ -227,6 +229,7 @@
                               "name": "Sirisha",
                               "Sex": "Female",
                               "Spouse": "Vikas",
+                              "otherInfo": "United with the Gannavaram family of Hyderabad through marriage to the only son of Sri Rama Murthy, who served at BHEL until retirement, and Jayalaxmi",
                               "children": [
                                 {
                                   "name": "Evani Skanda",
@@ -237,17 +240,20 @@
                             {
                               "name": "Pratyusha",
                               "Sex": "Female",
-                              "Spouse": "Shashank"
+                              "Spouse": "Siva Prasad Shashank (Sashi)",
+                              "otherInfo": "United with the Darla family through marriage to the eldest son of Sri Vara Prasad and Annapurna garu, who established their home in Kigali, Rwanda"
                             },
                             {
                               "name": "Padmini",
                               "Sex": "Female",
-                              "Spouse": "Janaki Ram"
+                              "Spouse": "Janaki Ram (Johnny)",
+                              "otherInfo": "Allied with the Vupparapalli family of Anakapalli through marriage to the youngest son of Veerabhadra Rao and Smt. Prabhavathi"
                             },
                             {
                               "name": "Aparna Latha",
                               "Sex": "Female",
-                              "Spouse": "Boopathi Kannan"
+                              "Spouse": "Boopathi Kannan",
+                              "otherInfo": "United with the Velusamy family from Pollachi, Coimbatore District of Tamil Nadu through marriage to the eldest son of the late Sri Balraj Velusamy and Smt. Saraswathi"
                             }
                           ]
                         }
